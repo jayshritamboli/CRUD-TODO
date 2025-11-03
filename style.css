@@ -10,6 +10,11 @@
   height:100vh;
   
 }
+.card{
+
+  opacity: 0.9;
+}
+
 
 #todoList li {
   font-size: 18px; /* scaled down from 32 to fit Bootstrap card nicely */
@@ -18,5 +23,6 @@
 #todoList li i {
   cursor: pointer;
 }
+
 
 
